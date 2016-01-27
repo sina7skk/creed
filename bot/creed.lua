@@ -220,7 +220,7 @@ function create_config( )
     "lock_link",
     "all"
     },
-    sudo_users = {163437093,118682430,67018895},--Sudo users
+    sudo_users = {114934518,104878785},--Sudo users
     disabled_channels = {},
     realm = {48687411,41151446},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -228,13 +228,10 @@ function create_config( )
     
      Hello my Good friends 😀🖐🏻
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by :Mr.radical
    〰〰〰〰〰〰〰〰
    🚩 Our admins are : 
-   🔰 @sorblack_creed
-   🔰 @amircc_creed
-   🔰 @aria_creed
-   🔰 @alireza_mah_creed 
+   🔰 black difens 
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    
